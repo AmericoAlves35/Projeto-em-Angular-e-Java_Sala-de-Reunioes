@@ -1,6 +1,6 @@
 # Projeto do Curso Intermediário de Angular e Java - Criação de Sala de Reunião
 
-Desenvolvimento de uma API com Spring Boot para gerenciar nossas salas de reunião, utilização do Spring Data para persistência de dados e o banco in-memory H2. O Front End que irá consumir essa API será uma SPA escrita em Angular.
+Desenvolvimento de uma API com Spring Boot para gerenciar salas de reunião, utilização do Spring Data para persistência de dados e o banco in-memory H2. O Front End que irá consumir essa API será uma SPA escrita em Angular.
 
 ## Ambiente Local
 
